@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site has no particular purpose other than to share some things I make, or write.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm not sure how you got here, but I'm glad you did, and hope you enjoy your visit!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+codefriend at (this domain)
